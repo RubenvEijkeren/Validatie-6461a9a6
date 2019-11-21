@@ -5,7 +5,7 @@
 </head>
 <body>
 	<form method="POST">
-		<input type="text" name="email" placeholder="Type your email here">
+		<input type="email" name="email" placeholder="Type your email here">
 		<input type="submit" name="submit" value="Submit">
 	</form>
 	<?php
